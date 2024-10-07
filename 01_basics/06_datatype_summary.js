@@ -24,7 +24,7 @@ console.log(typeof arr)
 
 
 //2.objects 
-object are keyvalue piar
+// object are keyvalue piar
 let myobj= {
     name: "Anshu",
     age : 20
